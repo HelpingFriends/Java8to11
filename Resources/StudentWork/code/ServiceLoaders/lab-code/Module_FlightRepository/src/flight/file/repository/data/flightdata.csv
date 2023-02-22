@@ -1,0 +1,1022 @@
+CX;811;Cathay Pacific;HKG;Hong Kong;1:30 AM;false
+AA;8891;American Airlines;HKG;Hong Kong;1:30 AM;true
+AA;1682;American Airlines;CLT;Charlotte;5:00 AM;false
+NK;103;Spirit Airlines;MYR;Myrtle Beach;5:00 AM;false
+AA;1491;American Airlines;PHL;Philadelphia;5:00 AM;false
+AA;2454;American Airlines;MIA;Miami;5:00 AM;false
+JJ;2053;LATAM Airlines Brasil;MIA;Miami;5:00 AM;true
+LA;8690;LATAM Airlines;MIA;Miami;5:00 AM;true
+WN;4556;Southwest Airlines;MDW;Chicago;5:25 AM;false
+5X;9820;UPS;BDL;Hartford;5:30 AM;false
+WN;2223;Southwest Airlines;BWI;Baltimore;5:30 AM;false
+DL;2079;Delta Air Lines;DTW;Detroit;5:35 AM;false
+VS;3091;Virgin Atlantic;DTW;Detroit;5:35 AM;true
+B6;917;JetBlue Airways;JFK;New York;5:40 AM;false
+UA;1078;United Airlines;EWR;Newark;5:45 AM;false
+CM;1963;Copa Airlines;EWR;Newark;5:45 AM;true
+UA;389;United Airlines;IAD;Dulles;5:50 AM;false
+AV;2023;AVIANCA;IAD;Dulles;5:50 AM;true
+CM;8133;Copa Airlines;IAD;Dulles;5:50 AM;true
+ET;1357;Ethiopian Airlines;IAD;Dulles;5:50 AM;true
+NH;7101;ANA;IAD;Dulles;5:50 AM;true
+AC;7677;Air Canada;YYZ;Toronto;5:50 AM;false
+DL;900;Delta Air Lines;ATL;Atlanta;5:55 AM;false
+AM;5599;Aeromexico;ATL;Atlanta;5:55 AM;true
+VS;4253;Virgin Atlantic;ATL;Atlanta;5:55 AM;true
+DL;6282;Delta Air Lines;RDU;Raleigh/Durham;6:04 AM;false
+VS;4277;Virgin Atlantic;RDU;Raleigh/Durham;6:04 AM;true
+UA;203;United Airlines;ORD;Chicago;6:05 AM;false
+NH;7479;ANA;ORD;Chicago;6:05 AM;true
+WN;3009;Southwest Airlines;BWI;Baltimore;6:05 AM;false
+B6;51;JetBlue Airways;MCO;Orlando;6:05 AM;false
+WN;203;Southwest Airlines;ATL;Atlanta;6:05 AM;false
+B6;1481;JetBlue Airways;RIC;Richmond;6:10 AM;false
+B6;1600;JetBlue Airways;DCA;Washington;6:10 AM;false
+B6;2279;JetBlue Airways;EWR;Newark;6:15 AM;false
+B6;2283;JetBlue Airways;RDU;Raleigh/Durham;6:15 AM;false
+B6;1285;JetBlue Airways;PIT;Pittsburgh;6:20 AM;false
+B6;159;JetBlue Airways;PHL;Philadelphia;6:20 AM;false
+UA;1763;United Airlines;EWR;Newark;6:25 AM;false
+CM;1174;Copa Airlines;EWR;Newark;6:25 AM;true
+AA;2165;American Airlines;LGA;New York;6:30 AM;false
+AS;6917;Alaska Airlines;LGA;New York;6:30 AM;true
+DL;2666;Delta Air Lines;LGA;New York;6:30 AM;false
+WS;6863;WestJet;LGA;New York;6:30 AM;true
+DL;2650;Delta Air Lines;SLC;Salt Lake City;6:30 AM;false
+9W;8382;Jet Airways (India);SLC;Salt Lake City;6:30 AM;true
+VS;4267;Virgin Atlantic;SLC;Salt Lake City;6:30 AM;true
+AA;543;American Airlines;PHL;Philadelphia;6:30 AM;false
+QR;5549;Qatar Airways;PHL;Philadelphia;6:30 AM;true
+B6;515;JetBlue Airways;BUF;Buffalo;6:30 AM;false
+AA;2538;American Airlines;MIA;Miami;6:30 AM;false
+JJ;2265;LATAM Airlines Brasil;MIA;Miami;6:30 AM;true
+LA;9088;LATAM Airlines;MIA;Miami;6:30 AM;true
+B6;727;JetBlue Airways;BWI;Baltimore;6:34 AM;false
+PD;936;Porter Airlines;YTZ;Toronto;6:35 AM;false
+NK;937;Spirit Airlines;RSW;Fort Myers;6:40 AM;false
+AC;8455;Air Canada;YUL;Montreal;6:45 AM;false
+UA;8123;United Airlines;YUL;Montreal;6:45 AM;true
+B6;57;JetBlue Airways;IAD;Dulles;6:45 AM;false
+EK;6043;Emirates;IAD;Dulles;6:45 AM;true
+WN;502;Southwest Airlines;DEN;Denver;6:45 AM;false
+B6;631;JetBlue Airways;LGA;New York;6:50 AM;false
+WN;552;Southwest Airlines;STL;Saint Louis;6:50 AM;false
+DL;189;Delta Air Lines;DTW;Detroit;6:50 AM;false
+VS;4223;Virgin Atlantic;DTW;Detroit;6:50 AM;true
+5X;9848;UPS;BDL;Hartford;6:50 AM;false
+SY;250;Sun Country Airlines;MSP;Minneapolis;6:55 AM;false
+DL;2667;Delta Air Lines;LGA;New York;7:00 AM;false
+WS;6376;WestJet;LGA;New York;7:00 AM;true
+AA;4761;American Airlines;LGA;New York;7:00 AM;false
+AS;8226;Alaska Airlines;LGA;New York;7:00 AM;true
+B6;1077;JetBlue Airways;LAS;Las Vegas;7:00 AM;false
+LY;8534;El Al;LAS;Las Vegas;7:00 AM;true
+DL;804;Delta Air Lines;JFK;New York;7:00 AM;false
+AM;5499;Aeromexico;JFK;New York;7:00 AM;true
+AZ;5918;Alitalia;JFK;New York;7:00 AM;true
+CZ;1015;China Southern Airlines;JFK;New York;7:00 AM;true
+KE;7308;Korean Air;JFK;New York;7:00 AM;true
+VS;3093;Virgin Atlantic;JFK;New York;7:00 AM;true
+AS;25;Alaska Airlines;SEA;Seattle;7:00 AM;false
+AA;7056;American Airlines;SEA;Seattle;7:00 AM;true
+EK;3017;Emirates;SEA;Seattle;7:00 AM;true
+KE;6222;Korean Air;SEA;Seattle;7:00 AM;true
+AA;1404;American Airlines;ORD;Chicago;7:00 AM;false
+AS;6761;Alaska Airlines;ORD;Chicago;7:00 AM;true
+EY;3042;Etihad Airways;ORD;Chicago;7:00 AM;true
+JL;7315;JAL;ORD;Chicago;7:00 AM;true
+B6;1147;JetBlue Airways;PAP;Port Au Prince;7:00 AM;false
+AA;2127;American Airlines;DCA;Washington;7:00 AM;false
+B6;111;JetBlue Airways;ORD;Chicago;7:00 AM;false
+LY;8546;El Al;ORD;Chicago;7:00 AM;true
+B6;1039;JetBlue Airways;AUS;Austin;7:00 AM;false
+LY;8502;El Al;AUS;Austin;7:00 AM;true
+B6;1789;JetBlue Airways;DCA;Washington;7:09 AM;false
+LY;8514;El Al;DCA;Washington;7:09 AM;true
+DL;1201;Delta Air Lines;ATL;Atlanta;7:09 AM;false
+AM;5597;Aeromexico;ATL;Atlanta;7:09 AM;true
+VS;4249;Virgin Atlantic;ATL;Atlanta;7:09 AM;true
+DL;1315;Delta Air Lines;MCO;Orlando;7:10 AM;false
+VS;4233;Virgin Atlantic;MCO;Orlando;7:10 AM;true
+VX;351;Virgin America;SFO;San Francisco;7:15 AM;false
+CZ;1988;China Southern Airlines;SFO;San Francisco;7:15 AM;true
+SQ;1393;Singapore Airlines;SFO;San Francisco;7:15 AM;true
+UA;1928;United Airlines;EWR;Newark;7:15 AM;false
+CM;2586;Copa Airlines;EWR;Newark;7:15 AM;true
+B6;1137;JetBlue Airways;DTW;Detroit;7:15 AM;false
+LY;8520;El Al;DTW;Detroit;7:15 AM;true
+B6;441;JetBlue Airways;CLE;Cleveland;7:15 AM;false
+LY;8510;El Al;CLE;Cleveland;7:15 AM;true
+5X;2019;UPS;DFW;Dallas;7:15 AM;false
+DL;2531;Delta Air Lines;LAX;Los Angeles;7:19 AM;false
+VS;2161;Virgin Atlantic;LAX;Los Angeles;7:19 AM;true
+B6;215;JetBlue Airways;DFW;Dallas;7:20 AM;false
+LY;8518;El Al;DFW;Dallas;7:20 AM;true
+WN;659;Southwest Airlines;MKE;Milwaukee;7:20 AM;false
+WN;2256;Southwest Airlines;BNA;Nashville;7:20 AM;false
+9K;7011;Cape Air;HYA;Hyannis;7:25 AM;false
+B6;5903;JetBlue Airways;HYA;Hyannis;7:25 AM;true
+TJ;201;Tradewind Aviation;HPN;Westchester County;7:30 AM;false
+UA;339;United Airlines;DEN;Denver;7:30 AM;false
+1I;612;NetJets Aviation;IAD;Dulles;7:30 AM;false
+AA;656;American Airlines;PHL;Philadelphia;7:30 AM;false
+NK;667;Spirit Airlines;BWI;Baltimore;7:30 AM;false
+B6;773;JetBlue Airways;AUA;Aruba;7:30 AM;false
+DL;2670;Delta Air Lines;LGA;New York;7:30 AM;false
+WS;7134;WestJet;LGA;New York;7:30 AM;true
+B6;619;JetBlue Airways;SAN;San Diego;7:35 AM;false
+LY;8564;El Al;SAN;San Diego;7:35 AM;true
+AA;875;American Airlines;CLT;Charlotte;7:35 AM;false
+B6;1807;JetBlue Airways;BNA;Nashville;7:35 AM;false
+AA;1274;American Airlines;MIA;Miami;7:45 AM;false
+JJ;2249;LATAM Airlines Brasil;MIA;Miami;7:45 AM;true
+LA;8206;LATAM Airlines;MIA;Miami;7:45 AM;true
+XL;6233;LATAM Airlines Ecuador;MIA;Miami;7:45 AM;true
+B6;1551;JetBlue Airways;MCO;Orlando;7:45 AM;false
+LY;8540;El Al;MCO;Orlando;7:45 AM;true
+B6;617;JetBlue Airways;JFK;New York;7:49 AM;false
+EK;6704;Emirates;JFK;New York;7:49 AM;true
+LY;8608;El Al;JFK;New York;7:49 AM;true
+SA;7353;South African Airways;JFK;New York;7:49 AM;true
+AA;3956;American Airlines;ROC;Rochester;7:53 AM;false
+JL;7616;JAL;ROC;Rochester;7:53 AM;true
+AA;2126;American Airlines;LGA;New York;8:00 AM;false
+B6;255;JetBlue Airways;DCA;Washington;8:00 AM;false
+AA;2303;American Airlines;DFW;Dallas;8:00 AM;false
+QF;4546;Qantas;DFW;Dallas;8:00 AM;true
+WN;644;Southwest Airlines;CMH;Columbus;8:00 AM;false
+AA;2173;American Airlines;DCA;Washington;8:00 AM;false
+B6;427;JetBlue Airways;BWI;Baltimore;8:00 AM;false
+LY;8506;El Al;BWI;Baltimore;8:00 AM;true
+DL;2747;Delta Air Lines;LGA;New York;8:00 AM;false
+WS;7080;WestJet;LGA;New York;8:00 AM;true
+9K;5211;Cape Air;ACK;Nantucket;8:00 AM;false
+B6;5152;JetBlue Airways;ACK;Nantucket;8:00 AM;true
+B6;401;JetBlue Airways;MSY;New Orleans;8:02 AM;false
+LY;8542;El Al;MSY;New Orleans;8:02 AM;true
+B6;459;JetBlue Airways;PHL;Philadelphia;8:06 AM;false
+LY;8552;El Al;PHL;Philadelphia;8:06 AM;true
+WN;675;Southwest Airlines;BWI;Baltimore;8:10 AM;false
+BA;238;British Airways;LHR;London;8:10 AM;false
+AA;6175;American Airlines;LHR;London;8:10 AM;true
+AY;5438;Finnair;LHR;London;8:10 AM;true
+EI;8938;Aer Lingus;LHR;London;8:10 AM;true
+IB;4643;Iberia;LHR;London;8:10 AM;true
+DL;2044;Delta Air Lines;MSP;Minneapolis;8:15 AM;false
+VS;4235;Virgin Atlantic;MSP;Minneapolis;8:15 AM;true
+WS;6690;WestJet;MSP;Minneapolis;8:15 AM;true
+UA;809;United Airlines;SFO;San Francisco;8:20 AM;false
+CA;7223;Air China;SFO;San Francisco;8:20 AM;true
+NZ;9505;Air New Zealand;SFO;San Francisco;8:20 AM;true
+9K;3031;Cape Air;MVY;Martha's Vineyard;8:20 AM;false
+B6;5186;JetBlue Airways;MVY;Martha's Vineyard;8:20 AM;true
+B6;151;JetBlue Airways;MCO;Orlando;8:20 AM;false
+EK;6065;Emirates;MCO;Orlando;8:20 AM;true
+CM;312;Copa Airlines;PTY;Panama City;8:21 AM;false
+UA;7124;United Airlines;PTY;Panama City;8:21 AM;true
+B6;133;JetBlue Airways;SFO;San Francisco;8:25 AM;false
+JL;5938;JAL;SFO;San Francisco;8:25 AM;true
+LY;8570;El Al;SFO;San Francisco;8:25 AM;true
+UA;700;United Airlines;EWR;Newark;8:25 AM;false
+CM;2000;Copa Airlines;EWR;Newark;8:25 AM;true
+SK;6781;SAS;EWR;Newark;8:25 AM;true
+B6;69;JetBlue Airways;FLL;Fort Lauderdale;8:25 AM;false
+LY;8524;El Al;FLL;Fort Lauderdale;8:25 AM;true
+FX;822;FedEx;MEM;Memphis;8:30 AM;false
+AC;7621;Air Canada;YYZ;Toronto;8:30 AM;false
+UA;8531;United Airlines;YYZ;Toronto;8:30 AM;true
+5X;2055;UPS;SDF;Louisville;8:30 AM;false
+DL;1203;Delta Air Lines;ATL;Atlanta;8:30 AM;false
+AM;5687;Aeromexico;ATL;Atlanta;8:30 AM;true
+VS;4227;Virgin Atlantic;ATL;Atlanta;8:30 AM;true
+AC;8894;Air Canada;YHZ;Halifax;8:40 AM;false
+UA;8117;United Airlines;YHZ;Halifax;8:40 AM;true
+9K;1871;Cape Air;LEB;Lebanon;8:45 AM;false
+B6;5168;JetBlue Airways;LEB;Lebanon;8:45 AM;true
+B6;2191;JetBlue Airways;TPA;Tampa;8:45 AM;false
+LY;8578;El Al;TPA;Tampa;8:45 AM;true
+B6;1109;JetBlue Airways;JAX;Jacksonville;8:45 AM;false
+LY;8530;El Al;JAX;Jacksonville;8:45 AM;true
+B6;1383;JetBlue Airways;RDU;Raleigh/Durham;8:45 AM;false
+LY;8558;El Al;RDU;Raleigh/Durham;8:45 AM;true
+B6;1485;JetBlue Airways;PIT;Pittsburgh;8:45 AM;false
+LY;8556;El Al;PIT;Pittsburgh;8:45 AM;true
+B6;731;JetBlue Airways;LGA;New York;8:50 AM;false
+B6;1031;JetBlue Airways;HOU;Houston;8:50 AM;false
+LY;8526;El Al;HOU;Houston;8:50 AM;true
+DL;4121;Delta Air Lines;IND;Indianapolis;8:50 AM;false
+VS;4201;Virgin Atlantic;IND;Indianapolis;8:50 AM;true
+B6;493;JetBlue Airways;DEN;Denver;8:50 AM;false
+LY;8516;El Al;DEN;Denver;8:50 AM;true
+B6;1245;JetBlue Airways;CLT;Charlotte;8:50 AM;false
+LY;8512;El Al;CLT;Charlotte;8:50 AM;true
+WN;680;Southwest Airlines;MCI;Kansas City;8:50 AM;false
+WN;668;Southwest Airlines;MDW;Chicago;8:55 AM;false
+9K;1811;Cape Air;ALB;Albany;8:58 AM;false
+B6;5139;JetBlue Airways;ALB;Albany;8:58 AM;true
+DL;6241;Delta Air Lines;RDU;Raleigh/Durham;9:02 AM;false
+VS;4283;Virgin Atlantic;RDU;Raleigh/Durham;9:02 AM;true
+DL;159;Delta Air Lines;DTW;Detroit;9:05 AM;false
+VS;4221;Virgin Atlantic;DTW;Detroit;9:05 AM;true
+DL;3336;Delta Air Lines;CMH;Columbus;9:15 AM;false
+UA;1710;United Airlines;EWR;Newark;9:15 AM;false
+CM;2358;Copa Airlines;EWR;Newark;9:15 AM;true
+B6;389;JetBlue Airways;DCA;Washington;9:19 AM;false
+PD;938;Porter Airlines;YTZ;Toronto;9:20 AM;false
+9K;1001;Cape Air;AUG;Augusta;9:20 AM;false
+B6;5111;JetBlue Airways;AUG;Augusta;9:20 AM;true
+UA;1401;United Airlines;IAH;Houston;9:22 AM;false
+NZ;6322;Air New Zealand;IAH;Houston;9:22 AM;true
+AA;583;American Airlines;PHX;Phoenix;9:25 AM;false
+AA;1172;American Airlines;MIA;Miami;9:25 AM;false
+4M;6311;LATAM Airlines Argentina;MIA;Miami;9:25 AM;true
+JJ;2133;LATAM Airlines Brasil;MIA;Miami;9:25 AM;true
+LA;8207;LATAM Airlines;MIA;Miami;9:25 AM;true
+XL;6260;LATAM Airlines Ecuador;MIA;Miami;9:25 AM;true
+DL;5614;Delta Air Lines;RIC;Richmond;9:25 AM;false
+NK;203;Spirit Airlines;PBI;West Palm Beach;9:27 AM;false
+9K;1029;Cape Air;SLK;Saranac Lake;9:28 AM;false
+B6;5128;JetBlue Airways;SLK;Saranac Lake;9:28 AM;true
+XOJ;551;XOJET;MDW;Chicago;9:29 AM;false
+FX;3601;FedEx;IND;Indianapolis;9:30 AM;false
+FX;647;FedEx;MEM;Memphis;9:30 AM;false
+AA;217;American Airlines;CLT;Charlotte;9:30 AM;false
+B6;517;JetBlue Airways;JFK;New York;9:30 AM;false
+EI;5009;Aer Lingus;JFK;New York;9:30 AM;true
+EK;6706;Emirates;JFK;New York;9:30 AM;true
+EY;8246;Etihad Airways;JFK;New York;9:30 AM;true
+UA;525;United Airlines;IAD;Dulles;9:35 AM;false
+AV;2032;AVIANCA;IAD;Dulles;9:35 AM;true
+CA;7380;Air China;IAD;Dulles;9:35 AM;true
+CM;8146;Copa Airlines;IAD;Dulles;9:35 AM;true
+SA;7429;South African Airways;IAD;Dulles;9:35 AM;true
+SK;6708;SAS;IAD;Dulles;9:35 AM;true
+B6;251;JetBlue Airways;MCO;Orlando;9:35 AM;false
+9K;1853;Cape Air;RKD;Rockland;9:35 AM;false
+B6;5161;JetBlue Airways;RKD;Rockland;9:35 AM;true
+9K;2071;Cape Air;PVC;Provincetown;9:36 AM;false
+B6;5127;JetBlue Airways;PVC;Provincetown;9:36 AM;true
+AC;8045;Air Canada;YOW;Ottawa;9:40 AM;false
+UA;8335;United Airlines;YOW;Ottawa;9:40 AM;true
+B6;61;JetBlue Airways;SJU;San Juan;9:45 AM;false
+EK;6327;Emirates;SJU;San Juan;9:45 AM;true
+LY;8574;El Al;SJU;San Juan;9:45 AM;true
+DL;1205;Delta Air Lines;ATL;Atlanta;9:45 AM;false
+AM;5669;Aeromexico;ATL;Atlanta;9:45 AM;true
+VS;4265;Virgin Atlantic;ATL;Atlanta;9:45 AM;true
+KS;125;PenAir;PQI;Presque Isle;9:50 AM;false
+AS;3125;Alaska Airlines;PQI;Presque Isle;9:50 AM;true
+AC;8457;Air Canada;YUL;Montreal;9:55 AM;false
+UA;8443;United Airlines;YUL;Montreal;9:55 AM;true
+B6;1081;JetBlue Airways;RIC;Richmond;9:59 AM;false
+EK;6335;Emirates;RIC;Richmond;9:59 AM;true
+LY;8560;El Al;RIC;Richmond;9:59 AM;true
+DL;2748;Delta Air Lines;LGA;New York;10:00 AM;false
+WS;6378;WestJet;LGA;New York;10:00 AM;true
+AA;4762;American Airlines;LGA;New York;10:00 AM;false
+FX;3636;FedEx;IND;Indianapolis;10:00 AM;false
+AA;2130;American Airlines;DCA;Washington;10:00 AM;false
+9K;55;Cape Air;RUT;Rutland;10:05 AM;false
+B6;5101;JetBlue Airways;RUT;Rutland;10:05 AM;true
+WS;3603;WestJet;YYZ;Toronto;10:10 AM;false
+AA;8167;American Airlines;YYZ;Toronto;10:10 AM;true
+DL;7027;Delta Air Lines;YYZ;Toronto;10:10 AM;true
+AA;2253;American Airlines;ORD;Chicago;10:10 AM;false
+AS;6764;Alaska Airlines;ORD;Chicago;10:10 AM;true
+CX;7590;Cathay Pacific;ORD;Chicago;10:10 AM;true
+DL;3440;Delta Air Lines;CVG;Cincinnati;10:15 AM;false
+B6;597;JetBlue Airways;SEA;Seattle;10:15 AM;false
+EK;6343;Emirates;SEA;Seattle;10:15 AM;true
+LY;8568;El Al;SEA;Seattle;10:15 AM;true
+9K;1833;Cape Air;BHB;Bar Harbor;10:15 AM;false
+B6;5125;JetBlue Airways;BHB;Bar Harbor;10:15 AM;true
+UA;1493;United Airlines;EWR;Newark;10:15 AM;false
+CM;1194;Copa Airlines;EWR;Newark;10:15 AM;true
+DL;561;Delta Air Lines;BDA;Bermuda;10:22 AM;false
+WN;686;Southwest Airlines;BWI;Baltimore;10:25 AM;false
+B6;455;JetBlue Airways;DCA;Washington;10:29 AM;false
+EK;6017;Emirates;DCA;Washington;10:29 AM;true
+AC;7625;Air Canada;YYZ;Toronto;10:30 AM;false
+B6;1833;JetBlue Airways;SFO;San Francisco;10:35 AM;false
+EK;6329;Emirates;SFO;San Francisco;10:35 AM;true
+B6;921;JetBlue Airways;PBI;West Palm Beach;10:40 AM;false
+EK;6315;Emirates;PBI;West Palm Beach;10:40 AM;true
+B6;311;JetBlue Airways;ORD;Chicago;10:45 AM;false
+EK;6067;Emirates;ORD;Chicago;10:45 AM;true
+B6;1215;JetBlue Airways;BUF;Buffalo;10:45 AM;false
+EK;6285;Emirates;BUF;Buffalo;10:45 AM;true
+LY;8504;El Al;BUF;Buffalo;10:45 AM;true
+B6;741;JetBlue Airways;SRQ;Sarasota;10:45 AM;false
+LY;8576;El Al;SRQ;Sarasota;10:45 AM;true
+UA;477;United Airlines;SFO;San Francisco;10:45 AM;false
+NZ;9507;Air New Zealand;SFO;San Francisco;10:45 AM;true
+B6;717;JetBlue Airways;JFK;New York;10:50 AM;false
+EI;5019;Aer Lingus;JFK;New York;10:50 AM;true
+EY;8278;Etihad Airways;JFK;New York;10:50 AM;true
+B6;965;JetBlue Airways;RSW;Fort Myers;10:50 AM;false
+EK;6323;Emirates;RSW;Fort Myers;10:50 AM;true
+LY;8562;El Al;RSW;Fort Myers;10:50 AM;true
+AA;891;American Airlines;CLT;Charlotte;10:55 AM;false
+EK;240;Emirates;DXB;Dubai;10:55 AM;false
+B6;5028;JetBlue Airways;DXB;Dubai;10:55 AM;true
+DL;4047;Delta Air Lines;BNA;Nashville;10:55 AM;false
+DL;2675;Delta Air Lines;LGA;New York;11:00 AM;false
+WS;7058;WestJet;LGA;New York;11:00 AM;true
+AA;791;American Airlines;PHL;Philadelphia;11:00 AM;false
+AA;2121;American Airlines;LGA;New York;11:00 AM;false
+DL;932;Delta Air Lines;DTW;Detroit;11:00 AM;false
+9W;8377;Jet Airways (India);DTW;Detroit;11:00 AM;true
+VS;4297;Virgin Atlantic;DTW;Detroit;11:00 AM;true
+DL;3974;Delta Air Lines;JFK;New York;11:00 AM;false
+AM;5503;Aeromexico;JFK;New York;11:00 AM;true
+AR;7027;Aerolineas Argentinas;JFK;New York;11:00 AM;true
+AZ;5990;Alitalia;JFK;New York;11:00 AM;true
+MU;8876;China Eastern Airlines;JFK;New York;11:00 AM;true
+UX;3328;Air Europa;JFK;New York;11:00 AM;true
+VS;4606;Virgin Atlantic;JFK;New York;11:00 AM;true
+WS;6349;WestJet;JFK;New York;11:00 AM;true
+AA;2169;American Airlines;DCA;Washington;11:00 AM;false
+9K;3051;Cape Air;MVY;Martha's Vineyard;11:00 AM;false
+B6;5187;JetBlue Airways;MVY;Martha's Vineyard;11:00 AM;true
+AA;1509;American Airlines;MIA;Miami;11:00 AM;false
+4M;6347;LATAM Airlines Argentina;MIA;Miami;11:00 AM;true
+JJ;2044;LATAM Airlines Brasil;MIA;Miami;11:00 AM;true
+LA;8716;LATAM Airlines;MIA;Miami;11:00 AM;true
+B6;49;JetBlue Airways;SAV;Savannah;11:00 AM;false
+EK;6023;Emirates;SAV;Savannah;11:00 AM;true
+LY;8566;El Al;SAV;Savannah;11:00 AM;true
+DL;1207;Delta Air Lines;ATL;Atlanta;11:00 AM;false
+AF;2135;Air France;ATL;Atlanta;11:00 AM;true
+VS;3089;Virgin Atlantic;ATL;Atlanta;11:00 AM;true
+NK;609;Spirit Airlines;FLL;Fort Lauderdale;11:12 AM;false
+B6;689;JetBlue Airways;DCA;Washington;11:20 AM;false
+AA;3912;American Airlines;PIT;Pittsburgh;11:20 AM;false
+B6;1667;JetBlue Airways;CHS;Charleston;11:20 AM;false
+EK;6015;Emirates;CHS;Charleston;11:20 AM;true
+LY;8508;El Al;CHS;Charleston;11:20 AM;true
+DL;2502;Delta Air Lines;MSP;Minneapolis;11:28 AM;false
+AF;5621;Air France;MSP;Minneapolis;11:28 AM;true
+KL;5999;KLM;MSP;Minneapolis;11:28 AM;true
+VS;4237;Virgin Atlantic;MSP;Minneapolis;11:28 AM;true
+WS;6692;WestJet;MSP;Minneapolis;11:28 AM;true
+B6;831;JetBlue Airways;LGA;New York;11:30 AM;false
+DL;6257;Delta Air Lines;RDU;Raleigh/Durham;11:40 AM;false
+VS;4281;Virgin Atlantic;RDU;Raleigh/Durham;11:40 AM;true
+UA;652;United Airlines;DEN;Denver;11:40 AM;false
+SY;252;Sun Country Airlines;MSP;Minneapolis;11:40 AM;false
+B6;781;JetBlue Airways;RIC;Richmond;11:49 AM;false
+WN;494;Southwest Airlines;IND;Indianapolis;11:50 AM;false
+AA;2607;American Airlines;DFW;Dallas;11:55 AM;false
+QF;4518;Qantas;DFW;Dallas;11:55 AM;true
+9K;1875;Cape Air;LEB;Lebanon;11:55 AM;false
+B6;5170;JetBlue Airways;LEB;Lebanon;11:55 AM;true
+UA;1576;United Airlines;EWR;Newark;11:56 AM;false
+CM;2511;Copa Airlines;EWR;Newark;11:56 AM;true
+9K;7171;Cape Air;HYA;Hyannis;12:05 PM;false
+B6;5904;JetBlue Airways;HYA;Hyannis;12:05 PM;true
+B6;457;JetBlue Airways;IAD;Dulles;12:10 PM;false
+EK;6301;Emirates;IAD;Dulles;12:10 PM;true
+EY;8347;Etihad Airways;IAD;Dulles;12:10 PM;true
+LY;8528;El Al;IAD;Dulles;12:10 PM;true
+QR;4052;Qatar Airways;IAD;Dulles;12:10 PM;true
+SA;7329;South African Airways;IAD;Dulles;12:10 PM;true
+9K;1831;Cape Air;BHB;Bar Harbor;12:10 PM;false
+B6;5157;JetBlue Airways;BHB;Bar Harbor;12:10 PM;true
+AC;7627;Air Canada;YYZ;Toronto;12:15 PM;false
+SN;9616;Brussels Airlines;YYZ;Toronto;12:15 PM;true
+WN;2478;Southwest Airlines;BWI;Baltimore;12:15 PM;false
+9K;5391;Cape Air;ACK;Nantucket;12:15 PM;false
+B6;5367;JetBlue Airways;ACK;Nantucket;12:15 PM;true
+DL;1209;Delta Air Lines;ATL;Atlanta;12:16 PM;false
+AM;5663;Aeromexico;ATL;Atlanta;12:16 PM;true
+KL;6427;KLM;ATL;Atlanta;12:16 PM;true
+VS;4229;Virgin Atlantic;ATL;Atlanta;12:16 PM;true
+B6;1083;JetBlue Airways;RDU;Raleigh/Durham;12:20 PM;false
+EK;6321;Emirates;RDU;Raleigh/Durham;12:20 PM;true
+B6;759;JetBlue Airways;PHL;Philadelphia;12:25 PM;false
+EK;6317;Emirates;PHL;Philadelphia;12:25 PM;true
+AC;8459;Air Canada;YUL;Montreal;12:25 PM;false
+UA;8359;United Airlines;YUL;Montreal;12:25 PM;true
+B6;2269;JetBlue Airways;FLL;Fort Lauderdale;12:25 PM;false
+EK;6299;Emirates;FLL;Fort Lauderdale;12:25 PM;true
+DL;2264;Delta Air Lines;DTW;Detroit;12:28 PM;false
+KL;6273;KLM;DTW;Detroit;12:28 PM;true
+VS;4261;Virgin Atlantic;DTW;Detroit;12:28 PM;true
+JL;7;JAL;NRT;Tokyo;12:30 PM;false
+AA;8475;American Airlines;NRT;Tokyo;12:30 PM;true
+MH;9107;Malaysia Airlines;NRT;Tokyo;12:30 PM;true
+B6;1927;JetBlue Airways;BWI;Baltimore;12:30 PM;false
+EK;6009;Emirates;BWI;Baltimore;12:30 PM;true
+TJ;203;Tradewind Aviation;HPN;Westchester County;12:30 PM;false
+B6;1217;JetBlue Airways;JFK;New York;12:30 PM;false
+AT;9509;Royal Air Maroc;JFK;New York;12:30 PM;true
+EI;5021;Aer Lingus;JFK;New York;12:30 PM;true
+WN;3133;Southwest Airlines;ATL;Atlanta;12:30 PM;false
+WN;530;Southwest Airlines;MKE;Milwaukee;12:40 PM;false
+AA;1668;American Airlines;PHL;Philadelphia;12:45 PM;false
+AS;8283;Alaska Airlines;PHL;Philadelphia;12:45 PM;true
+AA;2046;American Airlines;CLT;Charlotte;12:50 PM;false
+9K;1815;Cape Air;ALB;Albany;12:55 PM;false
+B6;5141;JetBlue Airways;ALB;Albany;12:55 PM;true
+AA;1211;American Airlines;DFW;Dallas;12:59 PM;false
+QF;4499;Qantas;DFW;Dallas;12:59 PM;true
+AA;2162;American Airlines;LGA;New York;1:00 PM;false
+DL;2679;Delta Air Lines;LGA;New York;1:00 PM;false
+WS;6924;WestJet;LGA;New York;1:00 PM;true
+DL;3690;Delta Air Lines;JFK;New York;1:00 PM;false
+AF;2741;Air France;JFK;New York;1:00 PM;true
+AM;5500;Aeromexico;JFK;New York;1:00 PM;true
+AZ;5919;Alitalia;JFK;New York;1:00 PM;true
+G3;8091;Gol;JFK;New York;1:00 PM;true
+KL;5423;KLM;JFK;New York;1:00 PM;true
+VS;2715;Virgin Atlantic;JFK;New York;1:00 PM;true
+WS;6364;WestJet;JFK;New York;1:00 PM;true
+AA;2129;American Airlines;DCA;Washington;1:00 PM;false
+9K;3151;Cape Air;MVY;Martha's Vineyard;1:05 PM;false
+B6;5189;JetBlue Airways;MVY;Martha's Vineyard;1:05 PM;true
+UA;1233;United Airlines;IAH;Houston;1:08 PM;false
+NZ;6376;Air New Zealand;IAH;Houston;1:08 PM;true
+WN;600;Southwest Airlines;AUS;Austin;1:10 PM;false
+UA;1564;United Airlines;ORD;Chicago;1:11 PM;false
+NH;7795;ANA;ORD;Chicago;1:11 PM;true
+WN;615;Southwest Airlines;BWI;Baltimore;1:15 PM;false
+AA;198;American Airlines;JFK;New York;1:15 PM;false
+AB;4555;Air Berlin;JFK;New York;1:15 PM;true
+AS;6400;Alaska Airlines;JFK;New York;1:15 PM;true
+AY;5694;Finnair;JFK;New York;1:15 PM;true
+BA;2383;British Airways;JFK;New York;1:15 PM;true
+EY;3375;Etihad Airways;JFK;New York;1:15 PM;true
+IB;4323;Iberia;JFK;New York;1:15 PM;true
+JJ;2197;LATAM Airlines Brasil;JFK;New York;1:15 PM;true
+LA;8236;LATAM Airlines;JFK;New York;1:15 PM;true
+MH;9543;Malaysia Airlines;JFK;New York;1:15 PM;true
+QF;4648;Qantas;JFK;New York;1:15 PM;true
+RJ;7294;Royal Jordanian;JFK;New York;1:15 PM;true
+WS;5101;WestJet;JFK;New York;1:15 PM;true
+XL;6198;LATAM Airlines Ecuador;JFK;New York;1:15 PM;true
+PD;942;Porter Airlines;YTZ;Toronto;1:20 PM;false
+KS;127;PenAir;PQI;Presque Isle;1:30 PM;false
+AS;3127;Alaska Airlines;PQI;Presque Isle;1:30 PM;true
+DL;981;Delta Air Lines;ATL;Atlanta;1:30 PM;false
+AF;5733;Air France;ATL;Atlanta;1:30 PM;true
+KL;7329;KLM;ATL;Atlanta;1:30 PM;true
+VS;4213;Virgin Atlantic;ATL;Atlanta;1:30 PM;true
+9K;1003;Cape Air;AUG;Augusta;1:30 PM;false
+B6;5113;JetBlue Airways;AUG;Augusta;1:30 PM;true
+NGF;1606;Angel Flight America;ACK;Nantucket;1:30 PM;false
+WN;513;Southwest Airlines;MCI;Kansas City;1:30 PM;false
+B6;1209;JetBlue Airways;JAX;Jacksonville;1:35 PM;false
+EK;6045;Emirates;JAX;Jacksonville;1:35 PM;true
+1I;385;NetJets Aviation;PHL;Philadelphia;1:45 PM;false
+B6;1585;JetBlue Airways;PIT;Pittsburgh;1:50 PM;false
+EK;6333;Emirates;PIT;Pittsburgh;1:50 PM;true
+B6;1615;JetBlue Airways;BUF;Buffalo;1:50 PM;false
+AA;252;American Airlines;ORD;Chicago;1:50 PM;false
+AS;6420;Alaska Airlines;ORD;Chicago;1:50 PM;true
+BA;8681;British Airways;ORD;Chicago;1:50 PM;true
+DL;3515;Delta Air Lines;CVG;Cincinnati;1:59 PM;false
+VS;3090;Virgin Atlantic;CVG;Cincinnati;1:59 PM;true
+B6;889;JetBlue Airways;DCA;Washington;2:00 PM;false
+AA;4763;American Airlines;LGA;New York;2:00 PM;false
+AA;2170;American Airlines;DCA;Washington;2:00 PM;false
+UA;4158;United Airlines;CLE;Cleveland;2:00 PM;false
+CM;8397;Copa Airlines;CLE;Cleveland;2:00 PM;true
+DL;2741;Delta Air Lines;LGA;New York;2:00 PM;false
+VS;3279;Virgin Atlantic;LGA;New York;2:00 PM;true
+WS;6318;WestJet;LGA;New York;2:00 PM;true
+B6;951;JetBlue Airways;MCO;Orlando;2:07 PM;false
+WS;3605;WestJet;YYZ;Toronto;2:15 PM;false
+AA;8191;American Airlines;YYZ;Toronto;2:15 PM;true
+DL;7031;Delta Air Lines;YYZ;Toronto;2:15 PM;true
+9K;1855;Cape Air;RKD;Rockland;2:15 PM;false
+B6;5163;JetBlue Airways;RKD;Rockland;2:15 PM;true
+AC;363;Air Canada;YYZ;Toronto;2:20 PM;false
+UA;8539;United Airlines;YYZ;Toronto;2:20 PM;true
+KS;263;PenAir;PBG;Plattsburgh;2:20 PM;false
+AS;3263;Alaska Airlines;PBG;Plattsburgh;2:20 PM;true
+9K;5291;Cape Air;ACK;Nantucket;2:20 PM;false
+B6;5368;JetBlue Airways;ACK;Nantucket;2:20 PM;true
+NK;146;Spirit Airlines;ATL;Atlanta;2:21 PM;false
+B6;861;JetBlue Airways;SJU;San Juan;2:25 PM;false
+9K;2271;Cape Air;PVC;Provincetown;2:30 PM;false
+B6;5129;JetBlue Airways;PVC;Provincetown;2:30 PM;true
+B6;1445;JetBlue Airways;CLT;Charlotte;2:30 PM;false
+EK;6013;Emirates;CLT;Charlotte;2:30 PM;true
+UA;511;United Airlines;IAD;Dulles;2:30 PM;false
+CM;8157;Copa Airlines;IAD;Dulles;2:30 PM;true
+LH;7449;Lufthansa;IAD;Dulles;2:30 PM;true
+SA;7427;South African Airways;IAD;Dulles;2:30 PM;true
+SK;3957;SAS;IAD;Dulles;2:30 PM;true
+SN;8899;Brussels Airlines;IAD;Dulles;2:30 PM;true
+DL;5548;Delta Air Lines;RIC;Richmond;2:30 PM;false
+KL;7980;KLM;RIC;Richmond;2:30 PM;true
+VS;4295;Virgin Atlantic;RIC;Richmond;2:30 PM;true
+DL;859;Delta Air Lines;MSP;Minneapolis;2:31 PM;false
+9W;8379;Jet Airways (India);MSP;Minneapolis;2:31 PM;true
+VS;4239;Virgin Atlantic;MSP;Minneapolis;2:31 PM;true
+WS;6694;WestJet;MSP;Minneapolis;2:31 PM;true
+9K;63;Cape Air;RUT;Rutland;2:32 PM;false
+B6;5103;JetBlue Airways;RUT;Rutland;2:32 PM;true
+AA;2084;American Airlines;CLT;Charlotte;2:33 PM;false
+DL;3512;Delta Air Lines;RDU;Raleigh/Durham;2:35 PM;false
+KL;6332;KLM;RDU;Raleigh/Durham;2:35 PM;true
+VS;4215;Virgin Atlantic;RDU;Raleigh/Durham;2:35 PM;true
+B6;1165;JetBlue Airways;RSW;Fort Myers;2:35 PM;false
+DL;1723;Delta Air Lines;DTW;Detroit;2:36 PM;false
+AF;2143;Air France;DTW;Detroit;2:36 PM;true
+G3;8057;Gol;DTW;Detroit;2:36 PM;true
+KL;7251;KLM;DTW;Detroit;2:36 PM;true
+VS;4203;Virgin Atlantic;DTW;Detroit;2:36 PM;true
+B6;1115;JetBlue Airways;DFW;Dallas;2:40 PM;false
+EK;6027;Emirates;DFW;Dallas;2:40 PM;true
+B6;417;JetBlue Airways;JFK;New York;2:40 PM;false
+AT;9511;Royal Air Maroc;JFK;New York;2:40 PM;true
+EI;5015;Aer Lingus;JFK;New York;2:40 PM;true
+EY;8240;Etihad Airways;JFK;New York;2:40 PM;true
+SQ;1451;Singapore Airlines;JFK;New York;2:40 PM;true
+DL;1211;Delta Air Lines;ATL;Atlanta;2:40 PM;false
+AM;5595;Aeromexico;ATL;Atlanta;2:40 PM;true
+G3;8019;Gol;ATL;Atlanta;2:40 PM;true
+VS;4259;Virgin Atlantic;ATL;Atlanta;2:40 PM;true
+NK;423;Spirit Airlines;MCO;Orlando;2:41 PM;false
+AA;147;American Airlines;LAX;Los Angeles;2:55 PM;false
+AS;6370;Alaska Airlines;LAX;Los Angeles;2:55 PM;true
+CX;7655;Cathay Pacific;LAX;Los Angeles;2:55 PM;true
+FJ;5044;Fiji Airways;LAX;Los Angeles;2:55 PM;true
+QF;3010;Qantas;LAX;Los Angeles;2:55 PM;true
+AC;8461;Air Canada;YUL;Montreal;2:55 PM;false
+UA;8483;United Airlines;YUL;Montreal;2:55 PM;true
+UA;981;United Airlines;ORD;Chicago;2:58 PM;false
+SK;8836;SAS;ORD;Chicago;2:58 PM;true
+AA;197;American Airlines;ORD;Chicago;3:05 PM;false
+AS;8015;Alaska Airlines;ORD;Chicago;3:05 PM;true
+QR;5361;Qatar Airways;ORD;Chicago;3:05 PM;true
+WN;1020;Southwest Airlines;BWI;Baltimore;3:05 PM;false
+UA;448;United Airlines;DEN;Denver;3:08 PM;false
+B6;1231;JetBlue Airways;LGA;New York;3:15 PM;false
+1I;371;NetJets Aviation;RIC;Richmond;3:18 PM;false
+9K;1879;Cape Air;LEB;Lebanon;3:25 PM;false
+B6;5172;JetBlue Airways;LEB;Lebanon;3:25 PM;true
+AA;1006;American Airlines;MIA;Miami;3:25 PM;false
+JJ;2218;LATAM Airlines Brasil;MIA;Miami;3:25 PM;true
+LA;8742;LATAM Airlines;MIA;Miami;3:25 PM;true
+WN;2311;Southwest Airlines;ATL;Atlanta;3:25 PM;false
+B6;391;JetBlue Airways;TPA;Tampa;3:27 PM;false
+EI;5290;Aer Lingus;TPA;Tampa;3:27 PM;true
+EK;6331;Emirates;TPA;Tampa;3:27 PM;true
+1I;390;NetJets Aviation;SYR;Syracuse;3:30 PM;false
+B6;1059;JetBlue Airways;PHL;Philadelphia;3:33 PM;false
+EI;5202;Aer Lingus;PHL;Philadelphia;3:33 PM;true
+HU;7962;Hainan Airlines;PVG;Shanghai;3:35 PM;false
+PD;944;Porter Airlines;YTZ;Toronto;3:35 PM;false
+B6;2579;JetBlue Airways;EWR;Newark;3:40 PM;false
+EK;6033;Emirates;EWR;Newark;3:40 PM;true
+AA;2552;American Airlines;DFW;Dallas;3:50 PM;false
+BA;2465;British Airways;DFW;Dallas;3:50 PM;true
+QF;4516;Qantas;DFW;Dallas;3:50 PM;true
+AA;2119;American Airlines;DCA;Washington;4:00 PM;false
+AS;6916;Alaska Airlines;DCA;Washington;4:00 PM;true
+AA;2146;American Airlines;LGA;New York;4:00 PM;false
+9K;3211;Cape Air;MVY;Martha's Vineyard;4:00 PM;false
+B6;5190;JetBlue Airways;MVY;Martha's Vineyard;4:00 PM;true
+TJ;205;Tradewind Aviation;HPN;Westchester County;4:00 PM;false
+DL;105;Delta Air Lines;ATL;Atlanta;4:00 PM;false
+9W;8375;Jet Airways (India);ATL;Atlanta;4:00 PM;true
+AF;2081;Air France;ATL;Atlanta;4:00 PM;true
+AR;7037;Aerolineas Argentinas;ATL;Atlanta;4:00 PM;true
+G3;8013;Gol;ATL;Atlanta;4:00 PM;true
+KL;5517;KLM;ATL;Atlanta;4:00 PM;true
+VS;4273;Virgin Atlantic;ATL;Atlanta;4:00 PM;true
+DL;2742;Delta Air Lines;LGA;New York;4:00 PM;false
+WS;6373;WestJet;LGA;New York;4:00 PM;true
+B6;1907;JetBlue Airways;BNA;Nashville;4:00 PM;false
+QR;4295;Qatar Airways;BNA;Nashville;4:00 PM;true
+UA;1572;United Airlines;SFO;San Francisco;4:05 PM;false
+NZ;9111;Air New Zealand;SFO;San Francisco;4:05 PM;true
+9K;5351;Cape Air;ACK;Nantucket;4:05 PM;false
+B6;5362;JetBlue Airways;ACK;Nantucket;4:05 PM;true
+B6;1237;JetBlue Airways;DTW;Detroit;4:10 PM;false
+EI;5306;Aer Lingus;DTW;Detroit;4:10 PM;true
+EK;6029;Emirates;DTW;Detroit;4:10 PM;true
+QR;4240;Qatar Airways;DTW;Detroit;4:10 PM;true
+HU;482;Hainan Airlines;PEK;Beijing;4:10 PM;false
+AA;2591;American Airlines;ORD;Chicago;4:10 PM;false
+AS;8071;Alaska Airlines;ORD;Chicago;4:10 PM;true
+WN;240;Southwest Airlines;DAL;Dallas;4:10 PM;false
+AA;4021;American Airlines;ROC;Rochester;4:15 PM;false
+B6;1011;JetBlue Airways;ORD;Chicago;4:19 PM;false
+EK;6069;Emirates;ORD;Chicago;4:19 PM;true
+AA;714;American Airlines;PHL;Philadelphia;4:20 PM;false
+DL;2409;Delta Air Lines;CVG;Cincinnati;4:20 PM;false
+KL;6788;KLM;CVG;Cincinnati;4:20 PM;true
+VS;4209;Virgin Atlantic;CVG;Cincinnati;4:20 PM;true
+B6;641;JetBlue Airways;CLE;Cleveland;4:20 PM;false
+EI;5362;Aer Lingus;CLE;Cleveland;4:20 PM;true
+EK;6271;Emirates;CLE;Cleveland;4:20 PM;true
+QR;4232;Qatar Airways;CLE;Cleveland;4:20 PM;true
+DL;2391;Delta Air Lines;MSP;Minneapolis;4:25 PM;false
+KL;5959;KLM;MSP;Minneapolis;4:25 PM;true
+VS;4285;Virgin Atlantic;MSP;Minneapolis;4:25 PM;true
+WS;6971;WestJet;MSP;Minneapolis;4:25 PM;true
+VX;353;Virgin America;SFO;San Francisco;4:25 PM;false
+CZ;1990;China Southern Airlines;SFO;San Francisco;4:25 PM;true
+SQ;1413;Singapore Airlines;SFO;San Francisco;4:25 PM;true
+WN;3383;Southwest Airlines;MDW;Chicago;4:25 PM;false
+9K;1837;Cape Air;BHB;Bar Harbor;4:25 PM;false
+B6;5159;JetBlue Airways;BHB;Bar Harbor;4:25 PM;true
+9K;5331;Cape Air;ACK;Nantucket;4:31 PM;false
+B6;5154;JetBlue Airways;ACK;Nantucket;4:31 PM;true
+B6;2783;JetBlue Airways;RDU;Raleigh/Durham;4:34 PM;false
+EI;5230;Aer Lingus;RDU;Raleigh/Durham;4:34 PM;true
+EK;6089;Emirates;RDU;Raleigh/Durham;4:34 PM;true
+QR;4020;Qatar Airways;RDU;Raleigh/Durham;4:34 PM;true
+9K;1817;Cape Air;ALB;Albany;4:34 PM;false
+B6;5143;JetBlue Airways;ALB;Albany;4:34 PM;true
+WS;3713;WestJet;YHZ;Halifax;4:35 PM;false
+AA;8206;American Airlines;YHZ;Halifax;4:35 PM;true
+DL;7221;Delta Air Lines;YHZ;Halifax;4:35 PM;true
+LH;423;Lufthansa;FRA;Frankfurt;4:35 PM;false
+AC;9452;Air Canada;FRA;Frankfurt;4:35 PM;true
+SN;7239;Brussels Airlines;FRA;Frankfurt;4:35 PM;true
+UA;8852;United Airlines;FRA;Frankfurt;4:35 PM;true
+WN;1036;Southwest Airlines;BWI;Baltimore;4:35 PM;false
+B6;1969;JetBlue Airways;FLL;Fort Lauderdale;4:35 PM;false
+EI;5144;Aer Lingus;FLL;Fort Lauderdale;4:35 PM;true
+EK;6037;Emirates;FLL;Fort Lauderdale;4:35 PM;true
+QR;4220;Qatar Airways;FLL;Fort Lauderdale;4:35 PM;true
+B6;1089;JetBlue Airways;DCA;Washington;4:39 PM;false
+EK;6289;Emirates;DCA;Washington;4:39 PM;true
+UA;599;United Airlines;ORD;Chicago;4:40 PM;false
+AD;7019;Azul;ORD;Chicago;4:40 PM;true
+SK;8890;SAS;ORD;Chicago;4:40 PM;true
+9K;1037;Cape Air;SLK;Saranac Lake;4:40 PM;false
+B6;5137;JetBlue Airways;SLK;Saranac Lake;4:40 PM;true
+B6;19;JetBlue Airways;SAN;San Diego;4:40 PM;false
+EI;5258;Aer Lingus;SAN;San Diego;4:40 PM;true
+EK;6097;Emirates;SAN;San Diego;4:40 PM;true
+QR;4034;Qatar Airways;SAN;San Diego;4:40 PM;true
+1I;789;NetJets Aviation;PHL;Philadelphia;4:42 PM;false
+B6;1027;JetBlue Airways;BWI;Baltimore;4:42 PM;false
+EI;5110;Aer Lingus;BWI;Baltimore;4:42 PM;true
+EK;6287;Emirates;BWI;Baltimore;4:42 PM;true
+B6;405;JetBlue Airways;LGB;Long Beach;4:45 PM;false
+EK;6061;Emirates;LGB;Long Beach;4:45 PM;true
+QR;4224;Qatar Airways;LGB;Long Beach;4:45 PM;true
+UA;2045;United Airlines;IAH;Houston;4:51 PM;false
+AD;7031;Azul;IAH;Houston;4:51 PM;true
+NZ;6498;Air New Zealand;IAH;Houston;4:51 PM;true
+B6;471;JetBlue Airways;SJC;San Jose;4:54 PM;false
+EI;5274;Aer Lingus;SJC;San Jose;4:54 PM;true
+EK;6035;Emirates;SJC;San Jose;4:54 PM;true
+QR;4140;Qatar Airways;SJC;San Jose;4:54 PM;true
+DL;1523;Delta Air Lines;DTW;Detroit;4:55 PM;false
+G3;8061;Gol;DTW;Detroit;4:55 PM;true
+KL;7097;KLM;DTW;Detroit;4:55 PM;true
+VS;4251;Virgin Atlantic;DTW;Detroit;4:55 PM;true
+B6;487;JetBlue Airways;LAX;Los Angeles;4:55 PM;false
+EK;6057;Emirates;LAX;Los Angeles;4:55 PM;true
+HA;2315;Hawaiian Airlines;LAX;Los Angeles;4:55 PM;true
+AA;4004;American Airlines;BUF;Buffalo;4:55 PM;false
+AA;1086;American Airlines;MIA;Miami;4:55 PM;false
+BA;2531;British Airways;MIA;Miami;4:55 PM;true
+JJ;2195;LATAM Airlines Brasil;MIA;Miami;4:55 PM;true
+LA;8775;LATAM Airlines;MIA;Miami;4:55 PM;true
+AA;2172;American Airlines;LGA;New York;5:00 PM;false
+DL;2687;Delta Air Lines;LGA;New York;5:00 PM;false
+WS;6462;WestJet;LGA;New York;5:00 PM;true
+DL;476;Delta Air Lines;JFK;New York;5:00 PM;false
+9W;8378;Jet Airways (India);JFK;New York;5:00 PM;true
+AZ;5916;Alitalia;JFK;New York;5:00 PM;true
+UX;3338;Air Europa;JFK;New York;5:00 PM;true
+VS;4656;Virgin Atlantic;JFK;New York;5:00 PM;true
+AC;365;Air Canada;YYZ;Toronto;5:00 PM;false
+TK;8679;Turkish Airlines;YYZ;Toronto;5:00 PM;true
+UA;8561;United Airlines;YYZ;Toronto;5:00 PM;true
+AA;2149;American Airlines;DCA;Washington;5:00 PM;false
+EJM;585;Executive Jet Management;PHL;Philadelphia;5:00 PM;false
+DL;6266;Delta Air Lines;RDU;Raleigh/Durham;5:04 PM;false
+VS;4279;Virgin Atlantic;RDU;Raleigh/Durham;5:04 PM;true
+AA;811;American Airlines;CLT;Charlotte;5:07 PM;false
+JL;7606;JAL;CLT;Charlotte;5:07 PM;true
+AC;8049;Air Canada;YOW;Ottawa;5:10 PM;false
+UA;8318;United Airlines;YOW;Ottawa;5:10 PM;true
+B6;1331;JetBlue Airways;LGA;New York;5:15 PM;false
+B6;1159;JetBlue Airways;PHL;Philadelphia;5:15 PM;false
+EI;5206;Aer Lingus;PHL;Philadelphia;5:15 PM;true
+EK;6077;Emirates;PHL;Philadelphia;5:15 PM;true
+AA;1530;American Airlines;ORD;Chicago;5:15 PM;false
+BA;4361;British Airways;ORD;Chicago;5:15 PM;true
+DL;1213;Delta Air Lines;ATL;Atlanta;5:15 PM;false
+AR;7003;Aerolineas Argentinas;ATL;Atlanta;5:15 PM;true
+VS;4241;Virgin Atlantic;ATL;Atlanta;5:15 PM;true
+NK;641;Spirit Airlines;LAS;Las Vegas;5:17 PM;false
+9K;2331;Cape Air;PVC;Provincetown;5:21 PM;false
+B6;5132;JetBlue Airways;PVC;Provincetown;5:21 PM;true
+WN;2296;Southwest Airlines;HOU;Houston;5:25 PM;false
+B6;1281;JetBlue Airways;RIC;Richmond;5:25 PM;false
+EI;5236;Aer Lingus;RIC;Richmond;5:25 PM;true
+EK;6003;Emirates;RIC;Richmond;5:25 PM;true
+QR;4189;Qatar Airways;RIC;Richmond;5:25 PM;true
+AC;8463;Air Canada;YUL;Montreal;5:30 PM;false
+SN;9618;Brussels Airlines;YUL;Montreal;5:30 PM;true
+UA;8363;United Airlines;YUL;Montreal;5:30 PM;true
+B6;1915;JetBlue Airways;BUF;Buffalo;5:30 PM;false
+EI;5098;Aer Lingus;BUF;Buffalo;5:30 PM;true
+EK;6005;Emirates;BUF;Buffalo;5:30 PM;true
+WN;6104;Southwest Airlines;BWI;Baltimore;5:30 PM;false
+9K;71;Cape Air;RUT;Rutland;5:33 PM;false
+B6;5105;JetBlue Airways;RUT;Rutland;5:33 PM;true
+B6;603;JetBlue Airways;PHX;Phoenix;5:35 PM;false
+EI;5210;Aer Lingus;PHX;Phoenix;5:35 PM;true
+EK;6081;Emirates;PHX;Phoenix;5:35 PM;true
+AA;85;American Airlines;JFK;New York;5:35 PM;false
+AS;6339;Alaska Airlines;JFK;New York;5:35 PM;true
+BA;5615;British Airways;JFK;New York;5:35 PM;true
+EY;3345;Etihad Airways;JFK;New York;5:35 PM;true
+LA;8686;LATAM Airlines;JFK;New York;5:35 PM;true
+MH;9623;Malaysia Airlines;JFK;New York;5:35 PM;true
+QF;3248;Qantas;JFK;New York;5:35 PM;true
+QR;5169;Qatar Airways;JFK;New York;5:35 PM;true
+RJ;7197;Royal Jordanian;JFK;New York;5:35 PM;true
+XL;6213;LATAM Airlines Ecuador;JFK;New York;5:35 PM;true
+9K;1007;Cape Air;AUG;Augusta;5:37 PM;false
+B6;5117;JetBlue Airways;AUG;Augusta;5:37 PM;true
+UA;1280;United Airlines;EWR;Newark;5:38 PM;false
+CM;5515;Copa Airlines;EWR;Newark;5:38 PM;true
+DL;283;Delta Air Lines;SLC;Salt Lake City;5:40 PM;false
+9W;8381;Jet Airways (India);SLC;Salt Lake City;5:40 PM;true
+VS;4245;Virgin Atlantic;SLC;Salt Lake City;5:40 PM;true
+WN;2448;Southwest Airlines;DEN;Denver;5:45 PM;false
+B6;1885;JetBlue Airways;PIT;Pittsburgh;5:45 PM;false
+EI;5220;Aer Lingus;PIT;Pittsburgh;5:45 PM;true
+EK;6001;Emirates;PIT;Pittsburgh;5:45 PM;true
+AA;1933;American Airlines;PHL;Philadelphia;5:45 PM;false
+VX;367;Virgin America;LAX;Los Angeles;5:45 PM;false
+CI;9679;China Airlines;LAX;Los Angeles;5:45 PM;true
+CZ;1901;China Southern Airlines;LAX;Los Angeles;5:45 PM;true
+MU;3887;China Eastern Airlines;LAX;Los Angeles;5:45 PM;true
+VA;5229;Virgin Australia;LAX;Los Angeles;5:45 PM;true
+AA;1094;American Airlines;DFW;Dallas;5:47 PM;false
+QF;4892;Qantas;DFW;Dallas;5:47 PM;true
+KS;265;PenAir;PBG;Plattsburgh;5:50 PM;false
+AS;3265;Alaska Airlines;PBG;Plattsburgh;5:50 PM;true
+B6;1351;JetBlue Airways;MCO;Orlando;5:55 PM;false
+EI;5168;Aer Lingus;MCO;Orlando;5:55 PM;true
+EK;6311;Emirates;MCO;Orlando;5:55 PM;true
+QR;4000;Qatar Airways;MCO;Orlando;5:55 PM;true
+BA;212;British Airways;LHR;London;5:55 PM;false
+AA;6163;American Airlines;LHR;London;5:55 PM;true
+AY;5412;Finnair;LHR;London;5:55 PM;true
+EI;8912;Aer Lingus;LHR;London;5:55 PM;true
+IB;4639;Iberia;LHR;London;5:55 PM;true
+AA;305;American Airlines;LAX;Los Angeles;5:59 PM;false
+AS;6410;Alaska Airlines;LAX;Los Angeles;5:59 PM;true
+BA;2495;British Airways;LAX;Los Angeles;5:59 PM;true
+CX;7509;Cathay Pacific;LAX;Los Angeles;5:59 PM;true
+QF;3004;Qantas;LAX;Los Angeles;5:59 PM;true
+TN;1247;Air Tahiti Nui;LAX;Los Angeles;5:59 PM;true
+KS;129;PenAir;PQI;Presque Isle;6:05 PM;false
+AS;3129;Alaska Airlines;PQI;Presque Isle;6:05 PM;true
+DL;4140;Delta Air Lines;JFK;New York;6:05 PM;false
+AF;5815;Air France;JFK;New York;6:05 PM;true
+KE;7310;Korean Air;JFK;New York;6:05 PM;true
+MU;8866;China Eastern Airlines;JFK;New York;6:05 PM;true
+VS;4890;Virgin Atlantic;JFK;New York;6:05 PM;true
+9K;1881;Cape Air;LEB;Lebanon;6:05 PM;false
+B6;5174;JetBlue Airways;LEB;Lebanon;6:05 PM;true
+9K;3291;Cape Air;MVY;Martha's Vineyard;6:05 PM;false
+B6;5150;JetBlue Airways;MVY;Martha's Vineyard;6:05 PM;true
+B6;833;JetBlue Airways;SFO;San Francisco;6:10 PM;false
+EK;6105;Emirates;SFO;San Francisco;6:10 PM;true
+QR;4044;Qatar Airways;SFO;San Francisco;6:10 PM;true
+AS;769;Alaska Airlines;SAN;San Diego;6:10 PM;false
+AA;7133;American Airlines;SAN;San Diego;6:10 PM;true
+EK;3015;Emirates;SAN;San Diego;6:10 PM;true
+9K;1857;Cape Air;RKD;Rockland;6:10 PM;false
+B6;5164;JetBlue Airways;RKD;Rockland;6:10 PM;true
+UA;576;United Airlines;SFO;San Francisco;6:15 PM;false
+CA;7222;Air China;SFO;San Francisco;6:15 PM;true
+NZ;9509;Air New Zealand;SFO;San Francisco;6:15 PM;true
+UA;439;United Airlines;ORD;Chicago;6:20 PM;false
+EI;136;Aer Lingus;DUB;Dublin;6:25 PM;false
+BA;6136;British Airways;DUB;Dublin;6:25 PM;true
+EY;7978;Etihad Airways;DUB;Dublin;6:25 PM;true
+UA;7636;United Airlines;DUB;Dublin;6:25 PM;true
+WN;3074;Southwest Airlines;BNA;Nashville;6:25 PM;false
+B6;1189;JetBlue Airways;DCA;Washington;6:29 PM;false
+B6;827;JetBlue Airways;BWI;Baltimore;6:30 PM;false
+EI;5106;Aer Lingus;BWI;Baltimore;6:30 PM;true
+UA;1657;United Airlines;EWR;Newark;6:34 PM;false
+CM;1151;Copa Airlines;EWR;Newark;6:34 PM;true
+DL;2643;Delta Air Lines;MSP;Minneapolis;6:35 PM;false
+VS;4225;Virgin Atlantic;MSP;Minneapolis;6:35 PM;true
+WS;6509;WestJet;MSP;Minneapolis;6:35 PM;true
+DL;1215;Delta Air Lines;ATL;Atlanta;6:38 PM;false
+AF;2155;Air France;ATL;Atlanta;6:38 PM;true
+KL;5647;KLM;ATL;Atlanta;6:38 PM;true
+VS;4243;Virgin Atlantic;ATL;Atlanta;6:38 PM;true
+AA;3874;American Airlines;SYR;Syracuse;6:39 PM;false
+B6;1317;JetBlue Airways;JFK;New York;6:50 PM;false
+EI;5011;Aer Lingus;JFK;New York;6:50 PM;true
+EK;6871;Emirates;JFK;New York;6:50 PM;true
+EY;8250;Etihad Airways;JFK;New York;6:50 PM;true
+WN;479;Southwest Airlines;STL;Saint Louis;6:50 PM;false
+AS;15;Alaska Airlines;SEA;Seattle;6:50 PM;false
+AA;7091;American Airlines;SEA;Seattle;6:50 PM;true
+EK;3016;Emirates;SEA;Seattle;6:50 PM;true
+AC;8465;Air Canada;YUL;Montreal;6:55 PM;false
+UA;8425;United Airlines;YUL;Montreal;6:55 PM;true
+UA;4159;United Airlines;CLE;Cleveland;6:55 PM;false
+CM;8153;Copa Airlines;CLE;Cleveland;6:55 PM;true
+9K;5371;Cape Air;ACK;Nantucket;6:55 PM;false
+B6;5363;JetBlue Airways;ACK;Nantucket;6:55 PM;true
+DL;308;Delta Air Lines;DTW;Detroit;6:56 PM;false
+9W;8376;Jet Airways (India);DTW;Detroit;6:56 PM;true
+VS;4255;Virgin Atlantic;DTW;Detroit;6:56 PM;true
+VX;357;Virgin America;SFO;San Francisco;6:59 PM;false
+CI;9631;China Airlines;SFO;San Francisco;6:59 PM;true
+CZ;1955;China Southern Airlines;SFO;San Francisco;6:59 PM;true
+SQ;1349;Singapore Airlines;SFO;San Francisco;6:59 PM;true
+DL;2691;Delta Air Lines;LGA;New York;7:00 PM;false
+WS;7090;WestJet;LGA;New York;7:00 PM;true
+AA;2141;American Airlines;LGA;New York;7:00 PM;false
+AS;6918;Alaska Airlines;LGA;New York;7:00 PM;true
+AA;2120;American Airlines;DCA;Washington;7:00 PM;false
+JL;7608;JAL;DCA;Washington;7:00 PM;true
+TJ;207;Tradewind Aviation;HPN;Westchester County;7:00 PM;false
+B6;2679;JetBlue Airways;EWR;Newark;7:00 PM;false
+EK;6297;Emirates;EWR;Newark;7:00 PM;true
+AC;367;Air Canada;YYZ;Toronto;7:05 PM;false
+UA;8389;United Airlines;YYZ;Toronto;7:05 PM;true
+B6;2051;JetBlue Airways;MCO;Orlando;7:10 PM;false
+EI;5176;Aer Lingus;MCO;Orlando;7:10 PM;true
+JL;5868;JAL;MCO;Orlando;7:10 PM;true
+QR;4006;Qatar Airways;MCO;Orlando;7:10 PM;true
+DL;5115;Delta Air Lines;RIC;Richmond;7:12 PM;false
+VS;4990;Virgin Atlantic;RIC;Richmond;7:12 PM;true
+AC;8896;Air Canada;YHZ;Halifax;7:15 PM;false
+UA;8482;United Airlines;YHZ;Halifax;7:15 PM;true
+B6;497;JetBlue Airways;SEA;Seattle;7:15 PM;false
+EI;5266;Aer Lingus;SEA;Seattle;7:15 PM;true
+EK;6019;Emirates;SEA;Seattle;7:15 PM;true
+QR;4038;Qatar Airways;SEA;Seattle;7:15 PM;true
+DL;6294;Delta Air Lines;RDU;Raleigh/Durham;7:20 PM;false
+VS;4275;Virgin Atlantic;RDU;Raleigh/Durham;7:20 PM;true
+EI;134;Aer Lingus;SNN;Shannon;7:20 PM;false
+BA;6134;British Airways;SNN;Shannon;7:20 PM;true
+B6;1431;JetBlue Airways;LGA;New York;7:30 PM;false
+DL;2442;Delta Air Lines;JFK;New York;7:30 PM;false
+AM;5057;Aeromexico;JFK;New York;7:30 PM;true
+AZ;5917;Alitalia;JFK;New York;7:30 PM;true
+CZ;1016;China Southern Airlines;JFK;New York;7:30 PM;true
+KE;7490;Korean Air;JFK;New York;7:30 PM;true
+KL;5741;KLM;JFK;New York;7:30 PM;true
+MU;8875;China Eastern Airlines;JFK;New York;7:30 PM;true
+UX;3313;Air Europa;JFK;New York;7:30 PM;true
+VS;3094;Virgin Atlantic;JFK;New York;7:30 PM;true
+B6;647;JetBlue Airways;SLC;Salt Lake City;7:30 PM;false
+QR;4292;Qatar Airways;SLC;Salt Lake City;7:30 PM;true
+PD;948;Porter Airlines;YTZ;Toronto;7:35 PM;false
+DL;3843;Delta Air Lines;MKE;Milwaukee;7:35 PM;false
+VS;3281;Virgin Atlantic;MKE;Milwaukee;7:35 PM;true
+B6;993;JetBlue Airways;DEN;Denver;7:39 PM;false
+EK;6021;Emirates;DEN;Denver;7:39 PM;true
+FI;7887;Icelandair;DEN;Denver;7:39 PM;true
+QR;4236;Qatar Airways;DEN;Denver;7:39 PM;true
+DL;3348;Delta Air Lines;CMH;Columbus;7:40 PM;false
+AF;2188;Air France;CMH;Columbus;7:40 PM;true
+VS;2370;Virgin Atlantic;CMH;Columbus;7:40 PM;true
+DL;126;Delta Air Lines;AMS;Amsterdam;7:40 PM;false
+9W;8027;Jet Airways (India);AMS;Amsterdam;7:40 PM;true
+KL;6016;KLM;AMS;Amsterdam;7:40 PM;true
+DL;58;Delta Air Lines;LHR;London;7:41 PM;false
+9W;8086;Jet Airways (India);LHR;London;7:41 PM;true
+AF;3681;Air France;LHR;London;7:41 PM;true
+KL;6186;KLM;LHR;London;7:41 PM;true
+VS;4012;Virgin Atlantic;LHR;London;7:41 PM;true
+UA;1202;United Airlines;EWR;Newark;7:43 PM;false
+AD;7045;Azul;EWR;Newark;7:43 PM;true
+CM;2016;Copa Airlines;EWR;Newark;7:43 PM;true
+WS;3609;WestJet;YYZ;Toronto;7:45 PM;false
+AA;8139;American Airlines;YYZ;Toronto;7:45 PM;true
+DL;7035;Delta Air Lines;YYZ;Toronto;7:45 PM;true
+JL;5714;JAL;YYZ;Toronto;7:45 PM;true
+WN;525;Southwest Airlines;IND;Indianapolis;7:45 PM;false
+B6;317;JetBlue Airways;JFK;New York;7:50 PM;false
+EI;5013;Aer Lingus;JFK;New York;7:50 PM;true
+EK;6702;Emirates;JFK;New York;7:50 PM;true
+LY;8610;El Al;JFK;New York;7:50 PM;true
+TP;8001;TAP Portugal;JFK;New York;7:50 PM;true
+AA;4916;American Airlines;MDT;Middletown;7:50 PM;false
+B6;777;JetBlue Airways;LAS;Las Vegas;7:55 PM;false
+EI;5160;Aer Lingus;LAS;Las Vegas;7:55 PM;true
+EK;6053;Emirates;LAS;Las Vegas;7:55 PM;true
+HA;2333;Hawaiian Airlines;LAS;Las Vegas;7:55 PM;true
+QR;4246;Qatar Airways;LAS;Las Vegas;7:55 PM;true
+B6;691;JetBlue Airways;TPA;Tampa;7:55 PM;false
+EI;5292;Aer Lingus;TPA;Tampa;7:55 PM;true
+EK;6113;Emirates;TPA;Tampa;7:55 PM;true
+FI;7849;Icelandair;TPA;Tampa;7:55 PM;true
+JL;5884;JAL;TPA;Tampa;7:55 PM;true
+QR;4252;Qatar Airways;TPA;Tampa;7:55 PM;true
+B6;1301;JetBlue Airways;MSY;New Orleans;7:55 PM;false
+EI;5178;Aer Lingus;MSY;New Orleans;7:55 PM;true
+EK;6031;Emirates;MSY;New Orleans;7:55 PM;true
+QR;4116;Qatar Airways;MSY;New Orleans;7:55 PM;true
+AA;1247;American Airlines;PHL;Philadelphia;7:59 PM;false
+JL;7612;JAL;PHL;Philadelphia;7:59 PM;true
+AA;2116;American Airlines;DCA;Washington;8:00 PM;false
+AF;333;Air France;CDG;Paris;8:00 PM;false
+AZ;3536;Alitalia;CDG;Paris;8:00 PM;true
+DL;8399;Delta Air Lines;CDG;Paris;8:00 PM;true
+DL;2740;Delta Air Lines;LGA;New York;8:00 PM;false
+AF;3478;Air France;LGA;New York;8:00 PM;true
+WS;6369;WestJet;LGA;New York;8:00 PM;true
+NK;615;Spirit Airlines;FLL;Fort Lauderdale;8:04 PM;false
+B6;1841;JetBlue Airways;CLE;Cleveland;8:05 PM;false
+EI;5364;Aer Lingus;CLE;Cleveland;8:05 PM;true
+FI;7875;Icelandair;CLE;Cleveland;8:05 PM;true
+QR;4234;Qatar Airways;CLE;Cleveland;8:05 PM;true
+B6;1837;JetBlue Airways;DTW;Detroit;8:05 PM;false
+EI;5308;Aer Lingus;DTW;Detroit;8:05 PM;true
+FI;7843;Icelandair;DTW;Detroit;8:05 PM;true
+JL;5896;JAL;DTW;Detroit;8:05 PM;true
+QR;4242;Qatar Airways;DTW;Detroit;8:05 PM;true
+BA;202;British Airways;LHR;London;8:10 PM;false
+AA;6200;American Airlines;LHR;London;8:10 PM;true
+AY;5502;Finnair;LHR;London;8:10 PM;true
+EI;8902;Aer Lingus;LHR;London;8:10 PM;true
+IB;4732;Iberia;LHR;London;8:10 PM;true
+NK;1027;Spirit Airlines;BWI;Baltimore;8:18 PM;false
+FX;1206;FedEx;MEM;Memphis;8:28 PM;false
+B6;1489;JetBlue Airways;DCA;Washington;8:30 PM;false
+FI;7825;Icelandair;DCA;Washington;8:30 PM;true
+JL;5860;JAL;DCA;Washington;8:30 PM;true
+AC;7689;Air Canada;YYZ;Toronto;8:30 PM;false
+UA;8353;United Airlines;YYZ;Toronto;8:30 PM;true
+LH;425;Lufthansa;MUC;Munich;8:30 PM;false
+AC;9454;Air Canada;MUC;Munich;8:30 PM;true
+SN;7241;Brussels Airlines;MUC;Munich;8:30 PM;true
+UA;8903;United Airlines;MUC;Munich;8:30 PM;true
+FI;630;Icelandair;KEF;Reykjavik;8:35 PM;false
+B6;5630;JetBlue Airways;KEF;Reykjavik;8:35 PM;true
+B6;469;JetBlue Airways;FLL;Fort Lauderdale;8:35 PM;false
+EI;5142;Aer Lingus;FLL;Fort Lauderdale;8:35 PM;true
+JL;5862;JAL;FLL;Fort Lauderdale;8:35 PM;true
+QR;4120;Qatar Airways;FLL;Fort Lauderdale;8:35 PM;true
+AA;4135;American Airlines;PIT;Pittsburgh;8:50 PM;false
+JL;7614;JAL;PIT;Pittsburgh;8:50 PM;true
+B6;865;JetBlue Airways;RSW;Fort Myers;8:50 PM;false
+EI;5244;Aer Lingus;RSW;Fort Myers;8:50 PM;true
+EK;6093;Emirates;RSW;Fort Myers;8:50 PM;true
+JL;5880;JAL;RSW;Fort Myers;8:50 PM;true
+QR;4026;Qatar Airways;RSW;Fort Myers;8:50 PM;true
+B6;1583;JetBlue Airways;RDU;Raleigh/Durham;8:59 PM;false
+EI;5228;Aer Lingus;RDU;Raleigh/Durham;8:59 PM;true
+FI;7819;Icelandair;RDU;Raleigh/Durham;8:59 PM;true
+JL;5874;JAL;RDU;Raleigh/Durham;8:59 PM;true
+QR;4018;Qatar Airways;RDU;Raleigh/Durham;8:59 PM;true
+B6;1427;JetBlue Airways;BWI;Baltimore;8:59 PM;false
+EI;5108;Aer Lingus;BWI;Baltimore;8:59 PM;true
+JL;5856;JAL;BWI;Baltimore;8:59 PM;true
+B6;121;JetBlue Airways;PBI;West Palm Beach;9:01 PM;false
+EI;5186;Aer Lingus;PBI;West Palm Beach;9:01 PM;true
+EK;6073;Emirates;PBI;West Palm Beach;9:01 PM;true
+QR;4010;Qatar Airways;PBI;West Palm Beach;9:01 PM;true
+B6;687;JetBlue Airways;LAX;Los Angeles;9:15 PM;false
+FI;7865;Icelandair;LAX;Los Angeles;9:15 PM;true
+HA;2313;Hawaiian Airlines;LAX;Los Angeles;9:15 PM;true
+BA;214;British Airways;LHR;London;9:20 PM;false
+AA;6165;American Airlines;LHR;London;9:20 PM;true
+AY;5414;Finnair;LHR;London;9:20 PM;true
+EI;8914;Aer Lingus;LHR;London;9:20 PM;true
+IB;4641;Iberia;LHR;London;9:20 PM;true
+DL;3500;Delta Air Lines;IND;Indianapolis;9:20 PM;false
+AF;9318;Air France;IND;Indianapolis;9:20 PM;true
+VS;3092;Virgin Atlantic;IND;Indianapolis;9:20 PM;true
+WN;254;Southwest Airlines;MDW;Chicago;9:25 PM;false
+B6;1451;JetBlue Airways;MCO;Orlando;9:30 PM;false
+EI;5172;Aer Lingus;MCO;Orlando;9:30 PM;true
+FI;7813;Icelandair;MCO;Orlando;9:30 PM;true
+QR;4002;Qatar Airways;MCO;Orlando;9:30 PM;true
+EI;138;Aer Lingus;DUB;Dublin;9:30 PM;false
+BA;6138;British Airways;DUB;Dublin;9:30 PM;true
+UA;7638;United Airlines;DUB;Dublin;9:30 PM;true
+QR;744;Qatar Airways;DOH;Doha;9:35 PM;false
+VS;12;Virgin Atlantic;LHR;London;9:40 PM;false
+DL;4379;Delta Air Lines;LHR;London;9:40 PM;true
+SQ;2512;Singapore Airlines;LHR;London;9:40 PM;true
+LX;53;SWISS;ZRH;Zurich;9:45 PM;false
+UA;9721;United Airlines;ZRH;Zurich;9:45 PM;true
+WN;461;Southwest Airlines;BWI;Baltimore;9:45 PM;false
+1I;313;NetJets Aviation;APA;Denver;10:00 PM;false
+S4;220;Azores Airlines;PDL;Ponta Delgada (Azores);10:05 PM;false
+TP;6504;TAP Portugal;PDL;Ponta Delgada (Azores);10:05 PM;true
+B6;923;JetBlue Airways;STI;Santiago;10:08 PM;false
+B6;829;JetBlue Airways;SDQ;Santo Domingo;10:14 PM;false
+EK;238;Emirates;DXB;Dubai;10:20 PM;false
+B6;5018;JetBlue Airways;DXB;Dubai;10:20 PM;true
+FX;1610;FedEx;IND;Indianapolis;10:20 PM;false
+FX;1026;FedEx;EWR;Newark;10:35 PM;false
+AM;699;Aeromexico;MEX;Mexico City;11:25 PM;false
+WS;6112;WestJet;MEX;Mexico City;11:25 PM;true
